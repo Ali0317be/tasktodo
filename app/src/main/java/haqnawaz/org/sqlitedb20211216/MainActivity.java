@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
     Switch switchIsActive;
     ListView listViewStudent;
     @Override
+    //
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
